@@ -16,6 +16,12 @@ about, and occasionally this means I don't always consider other people's
 opinions. Please tell me straight away if this is happening (see feedback
 below).
 
+💬 Feel free to @ping me on Slack, if there's something that needs my attention.
+I'll try and respond as quickly as I can. Sometimes I like to put Slack's "Do
+Not Disturb" on, if I'm doing an interview/other important meeting, or I just
+want to focus without distractions for a bit - in this case I will take a bit
+longer to respond (though you can ping through the DND if it's an emergency!)
+
 ### Hearing
 
 👂 You may have noticed that I wear hearing aids - these do a phenomenal job
